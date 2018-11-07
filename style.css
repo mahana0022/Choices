@@ -1,0 +1,10 @@
+@charset "utf-8";
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: rgba(101,35,208,1.00);
+}
+h3 {
+	text-decoration: underline;
+	color: rgba(27,126,29,1.00);
+}
